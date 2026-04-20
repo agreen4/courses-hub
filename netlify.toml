@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/mup-2028/*"
-  to = "https://mup-2028.netlify.app/mup-2028/:splat"
+  to = "https://mup-2028.netlify.app/:splat"
   status = 200
   force = true
